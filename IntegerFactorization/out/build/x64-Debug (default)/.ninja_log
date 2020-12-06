@@ -1,0 +1,9 @@
+# ninja log v5
+0	395	628956901	IntegerFactorization/CMakeFiles/IntegerFactorization.dir/IntegerFactorization.c.obj	52c844de215e7b49
+395	675	628956901	IntegerFactorization/IntegerFactorization.exe	f09b0162c40dc301
+0	209	628956936	IntegerFactorization/CMakeFiles/IntegerFactorization.dir/IntegerFactorization.c.obj	52c844de215e7b49
+209	334	628956936	IntegerFactorization/IntegerFactorization.exe	f09b0162c40dc301
+0	204	628957017	IntegerFactorization/CMakeFiles/IntegerFactorization.dir/IntegerFactorization.c.obj	52c844de215e7b49
+204	326	628957017	IntegerFactorization/IntegerFactorization.exe	f09b0162c40dc301
+0	206	628957044	IntegerFactorization/CMakeFiles/IntegerFactorization.dir/IntegerFactorization.c.obj	52c844de215e7b49
+206	338	628957045	IntegerFactorization/IntegerFactorization.exe	f09b0162c40dc301
